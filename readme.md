@@ -1,0 +1,1 @@
+An interactive full-stack dashboard utilizing React and Python to visualize, tune, and analyze reinforcement learning agents solving resource optimization problems.
